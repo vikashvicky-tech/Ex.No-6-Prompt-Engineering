@@ -64,7 +64,9 @@ Sentiment Analysis:
 {'neg': 0.299, 'neu': 0.701, 'pos': 0.0, 'compound': -0.7167}
 
 Insight: The review tone is neutral or negative.
+
 [nltk_data] Downloading package vader_lexicon to /root/nltk_data...
+
 [nltk_data]   Package vader_lexicon is already up-to-date!
 ---------------------------------------------------------------------------------------------------
 
